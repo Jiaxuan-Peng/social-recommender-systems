@@ -2,14 +2,14 @@
 
 Python version 3.8 and tensorflow version 2.5
 
-train and test files are for running the model
+train.py and test.py are for running the model
 
-build a dataset file is for data processing
+build_dataset_new.py is for data processing
 
-input fileis for a small sample of data
+input.py for a small sample of data
 
-model fileis for description
+model.py for description
 
-eval fileis for evaluation metrics
+eval.py for evaluation metrics
 
 yelp file is for the used data
